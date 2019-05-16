@@ -12,7 +12,7 @@
 7. [Survey], [Relational inductive biases, deep learning, and graph networks](<https://arxiv.org/pdf/1806.01261.pdf>), 2018
 8. [Survey], [Network Representation Learning: A Survey](<https://arxiv.org/pdf/1801.05852.pdf>), 2018
 9. [Survey], [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](<https://arxiv.org/pdf/1709.07604.pdf>), 2018
-10. [Survey], [Representation Learning on Graphs: Methods and Applications](Representation Learning on Graphs: Methods and Applications),2018
+10. [Survey], [Representation Learning on Graphs: Methods and Applications](<https://arxiv.org/pdf/1709.05584.pdf>),2018
 
 #### Dynamic Graph Representation Learning Papers
 
